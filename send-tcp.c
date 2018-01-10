@@ -1,4 +1,4 @@
-// based on ecample: "Send an arbitrary Ethernet frame using libpcap" (c) 2012 Graham Shaw 
+// based on example: "Send an arbitrary Ethernet frame using libpcap" (c) 2012 Graham Shaw 
 // http://www.microhowto.info/howto/send_an_arbitrary_ethernet_frame_using_libpcap.html
 // and also taken from raw TCP packets code by Silver Moon (m00n.silv3r@gmail.com)
 
